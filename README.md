@@ -11,12 +11,12 @@
   * **00_wine_nobot_emailbundle**: email_bundle
   * **00_wine_nobot_customerbundle**: customer_bundle
   
-## 其他檔案
+* 其他檔案
   * **icheers_trans**: 交易紀錄
   * **icheers_member**: 會員資料
   * **00_raw_wineinfo**: 每支酒的詳細資料
   
-### 關於**00_wine_data_filter_winelist**內的 filter 有幾點說明
+* 關於**00_wine_data_filter_winelist**內的 filter 有幾點說明
   1. 若`filter_code=='0' & filter_cat=='keywords'`: 表示訪客沒有使用關鍵字搜尋
   2. 若 `filter_code=='-1' (& filter_cat=='price_up' | filter_cat=='price_down')`: 表示訪客沒有設定價格上限或下限
   3. 若 `filter_code == "vn" & (filter_cat == "year_up" | filter_cat == "year_down")` : 表示訪客沒有設定年份上限或下限
