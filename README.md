@@ -31,7 +31,7 @@
    * `page_id == 329151, 329178` (只有 numbersofwine 不同) 
    * `page_id == 329178, 329179, 329188` (只有 webpage 不同) 
 
-***
+
 ### [prep_and_analysis](https://github.com/pcchencode/Master_Thesis-Wine_ML/tree/master/prep_and_analysis) 為清理資料與分析敘述統計之程式檔
 
  * 分析敘述統計：
