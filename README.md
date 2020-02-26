@@ -46,15 +46,15 @@
 
 # 模型使用
 * Model
- * Random Forest
- * Decision Tree
+  * Random Forest
+  * Decision Tree
  
 * Resampling Method
- * Over-sampling
- * Under-sampling
- * [ROSE(Random Over-sampling Examples)](https://journal.r-project.org/archive/2014/RJ-2014-008/RJ-2014-008.pdf)
- * [SMOTe(Synthetic Minority Over-sampling Technique)](https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/SMOTE)
+  * Over-sampling
+  * Under-sampling
+  * [ROSE(Random Over-sampling Examples)](https://journal.r-project.org/archive/2014/RJ-2014-008/RJ-2014-008.pdf)
+  * [SMOTe(Synthetic Minority Over-sampling Technique)](https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/SMOTE)
  
 * Result
- * [Thesis](https://github.com/pcchencode/Master_Thesis-Wine_ML/blob/master/thesis.pdf)
- * [Presentation](https://github.com/pcchencode/Master_Thesis-Wine_ML/blob/master/Presentation.pdf)
+  * [Thesis](https://github.com/pcchencode/Master_Thesis-Wine_ML/blob/master/thesis.pdf)
+  * [Presentation](https://github.com/pcchencode/Master_Thesis-Wine_ML/blob/master/Presentation.pdf)
