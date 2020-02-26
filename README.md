@@ -42,3 +42,19 @@
  * 資料清理與準備：
    - **seq_cluster_preparement.do**: 為了執行**瀏覽頁面序列分群**所做的預先準備
    - **ML_preparement.do**: 為了套用 **Machine Learning Pckage** 所做的預先準備 
+
+
+# 模型使用
+* Model
+ * Random Forest
+ * Decision Tree
+ 
+* Resampling Method
+ * Over-sampling
+ * Under-sampling
+ * [ROSE(Random Over-sampling Examples)](https://journal.r-project.org/archive/2014/RJ-2014-008/RJ-2014-008.pdf)
+ * [SMOTe(Synthetic Minority Over-sampling Technique)](https://www.rdocumentation.org/packages/DMwR/versions/0.4.1/topics/SMOTE)
+ 
+* Result
+ * [Thesis](https://github.com/pcchencode/Master_Thesis-Wine_ML/blob/master/thesis.pdf)
+ * [Presentation](https://github.com/pcchencode/Master_Thesis-Wine_ML/blob/master/Presentation.pdf)
