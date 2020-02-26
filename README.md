@@ -1,5 +1,5 @@
 # 檔案說明
-資料夾 data<https://github.com/pcchencode/Master_Thesis-Wine_ML/tree/master/data> 為原始網站資料，裡面有 10 個檔案
+資料夾 [data](https://github.com/pcchencode/Master_Thesis-Wine_ML/tree/master/data) 為原始網站資料，裡面有 10 個檔案
 
 * 瀏覽記錄相關
   * **00_wine_data_pageview**: 訪客頁面瀏覽紀錄，但不包含`page_type=='upload'`的紀錄。
