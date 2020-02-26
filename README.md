@@ -1,11 +1,11 @@
 # 檔案說明
 資料夾「data」為原始網站資料，裡面有 10 個檔案
 
-## 瀏覽記錄相關
+* 瀏覽記錄相關
   * **00_wine_data_pageview**: 訪客頁面瀏覽紀錄，但不包含`page_type=='upload'`的紀錄。
   * **00_wine_data_filter_winelist**: 所有 wine_list 所使用到的 filter，可以使用 page_id 與瀏覽紀錄合併。
   
-## 解碼瀏覽紀錄裡相對應的變數
+* 解碼瀏覽紀錄裡相對應的變數
   * **00_wine_nobot_refer**: refer_code
   * **00_wine_nobot_url**: url_code, winelist_code
   * **00_wine_nobot_emailbundle**: email_bundle
