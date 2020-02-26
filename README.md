@@ -36,9 +36,9 @@
 
  * 分析敘述統計：
    * **Analysis0425_firstsession.do**: 分析每位訪客 *第一個* 工作階段的分佈
-  * **Analysis0425_wholesession.do**: 分析每位訪客 *所有* 工作階段分佈
-  * **Basic_analysis_for_browsingdata.do**: 分析詳細訪客瀏覽頁面
+   * **Analysis0425_wholesession.do**: 分析每位訪客 *所有* 工作階段分佈
+   * **Basic_analysis_for_browsingdata.do**: 分析詳細訪客瀏覽頁面
  
  * 資料清理與準備：
    - **seq_cluster_preparement.do**: 為了執行**瀏覽頁面序列分群**所做的預先準備
-  - **ML_preparement.do**: 為了套用 **Machine Learning Pckage** 所做的預先準備 
+   - **ML_preparement.do**: 為了套用 **Machine Learning Pckage** 所做的預先準備 
